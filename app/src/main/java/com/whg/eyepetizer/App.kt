@@ -3,6 +3,7 @@ package com.whg.eyepetizer
 import android.content.Context
 import android.support.multidex.MultiDex
 import android.support.multidex.MultiDexApplication
+import cat.ereza.customactivityoncrash.config.CaocConfig
 import com.aitangba.swipeback.ActivityLifecycleHelper
 
 /**
@@ -13,6 +14,8 @@ class App : MultiDexApplication(){
     override fun onCreate() {
         super.onCreate()
         registerActivityLifecycleCallbacks(ActivityLifecycleHelper.build())
+        CaocConfig.Builder.create().apply()
+
     }
 
     /**

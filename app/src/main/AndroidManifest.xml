@@ -26,26 +26,13 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".ui.MainActivity"
-            />
-        <activity android:name=".ui.ResultActivity"
-
-            />
-        <activity android:name=".ui.FindDetailActivity"
-
-            />
-        <activity android:name=".ui.WatchActivity"
-
-            />
-        <activity android:name=".ui.AdviseActivity"
-
-            />
-        <activity android:name=".ui.CacheActivity"
-
-            />
-        <activity android:name=".ui.VrActivity"
-
-            />
+        <activity android:name=".ui.MainActivity"/>
+        <activity android:name=".ui.ResultActivity"/>
+        <activity android:name=".ui.FindDetailActivity"/>
+        <activity android:name=".ui.WatchActivity"/>
+        <activity android:name=".ui.AdviseActivity"/>
+        <activity android:name=".ui.CacheActivity"/>
+        <activity android:name=".ui.VrActivity"/>
         <activity
             android:name=".ui.VideoDetailActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
