@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="swipeback-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/swipeback-1.0.1.aar/c776400025f81b45aab1d37ab702f5c9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/swipeback-1.0.1.aar/c776400025f81b45aab1d37ab702f5c9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aitangba/swipeback/1.0.1/84b45564e818b0e8f5a3947a1a808bff2f5ba631/swipeback-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
